@@ -1,0 +1,36 @@
+body {
+  /* font-size: 16px; */
+  color: #fff;
+  font-family: 'Oxygen', sans-serif;
+  clear: both
+}
+h1{
+  color: #000;
+}
+h2 {
+  text-align: center;
+}
+p {
+  font-size: 1.5rem;
+  padding: 3% 3%;
+}
+#header-nav {
+  background-color: grey;
+  border-radius: 0;
+  border: 2px solid  black;
+}
+.feature-box {
+  background-color: grey;
+}
+.nav-link {
+  color: black;
+}
+.nav-item {
+  text-align: center;
+}
+.content {
+
+}
+#title {
+  background-color: grey;
+}
